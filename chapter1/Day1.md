@@ -48,4 +48,4 @@ PaaS(platform as a service) 및 IaaS(infrastructure as a service)는 응용 프�
 - 차이점: paas는 os 및 미들웨어까지 관리하고, 필수 기능만 사용자에게 제공한다.
 → RDS,DynamoDB, Lambda 등
 - 차이점: IaaS는 서버 및 네트워크 기능만 제공하며 설정과 관리는 사용자의 몫이다.
-→ EC2, VPC, EBS 등
+→ EC2, VPC, EBS 등 
